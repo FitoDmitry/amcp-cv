@@ -1,5 +1,5 @@
 # Дмитрий Шалаев
-![Мое фото](!(https://github.com/user-attachments/assets/d8ba13c7-4836-4e56-a999-d1a6b154cea8))  
+![Мое фото](https://github.com/user-attachments/assets/d8ba13c7-4836-4e56-a999-d1a6b154cea8)  
 | shalayev.mitya@inbox.ru | [Мой Codewars](https://www.codewars.com/users/Fitodmitry)
 
 ## О себе
