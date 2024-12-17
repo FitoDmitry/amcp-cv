@@ -1,6 +1,6 @@
 # Дмитрий Шалаев
-![Мое фото фото](ссылка_на_ваше_фото)  
-| [Мой GitHub](https://github) | shalayev.mitya@inbox.ru | [Мой Codewars](https://www.codewars.com/users/Fitodmitry)
+![Мое фото фото](![my_profil](https://github.com/user-attachments/assets/d8ba13c7-4836-4e56-a999-d1a6b154cea8))  
+| shalayev.mitya@inbox.ru | [Мой Codewars](https://www.codewars.com/users/Fitodmitry)
 
 ## О себе
 Я студент Санкт-Петербургского государственного университета (СПбГУ), обучаюсь по специальности Программирование и информационные технологии.
@@ -23,7 +23,7 @@
 
 ## Проекты
 ### CV
-Это мое резюме, составленное в формате Markdown. [Ссылка на код проекта]()
+Это мое резюме, составленное в формате Markdown. [Ссылка на код проекта](https://github.com/FitoDmitry/amcp-cv)
 
 
 
